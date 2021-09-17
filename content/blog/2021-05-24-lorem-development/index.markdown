@@ -6,12 +6,12 @@ date: 2021-05-24
 author: "Alison Hill"
 draft: false
 # layout options: single, single-sidebar
-layout: single
+layout: single-sidebar
 categories:
 - evergreen
 ---
 
-{{< here >}}
+
 
 ## But first, panelsets with R code chunks
 
