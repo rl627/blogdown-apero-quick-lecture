@@ -7,4 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+
+Drexel University fulfills our founder's vision of preparing each new generation of students for productive professional and civic lives while also focusing our collective expertise on solving society's greatest problems. Drexel is an academically comprehensive and globally engaged urban research university, dedicated to advancing knowledge and society and to providing every student with a valuable, rigorous, experiential, technology-infused education, enriched by the nation's premier co-operative education program.
